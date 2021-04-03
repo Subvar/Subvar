@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello everybody 👋
+My name is Vladimir and I use C++, C#, Web-technology for create simple and usefull Application Programs for people.
+I have quite a long experience of working and interacting with systems based on the Linux kernel, and I always try to implement cross-platform solutions for a particular problem.
 <!--
 **Subvar/Subvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
