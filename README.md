@@ -1,7 +1,7 @@
 ### Hello everybody 👋
-My name is Vladimir and I use C++, C#, Web-technology for create simple and usefull Application Programs for people.  
+My name is Vladimir and I use Web-technology for create simple, awfull and usefull Application Programs from people for the people.  
 I have quite a long experience of working and interacting with systems based on the Linux kernel, and I always try to implement cross-platform solutions for a particular problem.  
-#### Favorite expression 📇
+#### Favorite expressions 📇
 > The more thoughts in my head, the more I am lazy.
 <!--
 **Subvar/Subvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
